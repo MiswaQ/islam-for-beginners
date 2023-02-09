@@ -1,6 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Alice&family=Playfair+Display+SC:wght@900&display=swap');
 
+body {
+    font-family: 'Playfair Display SC', serif;
+    font-weight: 300;
+}
 
+h1 {
+    font-size: 80px;
+    color: #12FF00;
+}
+
+#links {
+    text-align: right;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
 
 #mecca {
     height: 300px;
@@ -8,6 +26,5 @@
     background: url('../images/mecca.jpg') no-repeat center center;
     background-size: 100%;
     border: 10px solid #00BB9D;
-    margin: 0;
-    padding: 0;
+    background-color: #006D89;
 }
