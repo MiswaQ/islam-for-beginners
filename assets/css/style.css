@@ -8,10 +8,22 @@ body {
 h1 {
     font-size: 80px;
     color: #12FF00;
+    position: relative;
 }
 
 #links {
     text-align: right;
+}
+
+#links a {
+    color: aquamarine;
+    display: block;
+    text-decoration: none;
+}
+
+#links a:hover {
+    color: black;
+    display: block;
 }
 
 * {
