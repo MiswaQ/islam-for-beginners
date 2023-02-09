@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Alice&family=Playfair+Display+SC:wght@900&display=swap');
+
+#mecca {
+    height: 300px;
+    width: auto;
+    background: url('../images/mecca.jpg') center center;
+    border: 10px solid #00BB9D;
+    margin: 0;
+    padding: 0;
+}
