@@ -5,6 +5,10 @@ body {
     font-weight: 300;
 }
 
+p {
+    font-family: 'Alice', serif;
+}
+
 #mecca h1 {
     font-size: 100px;
     color: black;
@@ -44,13 +48,13 @@ body {
 
 .intro {
     height: 250px;
-    width: 100%;
+    width: auto;
     border: 3px solid #006D89;
-    text-align: center;
+    background-color: #00DF75;
 }
 
 .intro .first {
-    width: 50%;
+    width: 100%;
     font-size: 100px;
     text-align: center;
 }
