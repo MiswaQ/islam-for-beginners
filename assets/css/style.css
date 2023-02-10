@@ -67,7 +67,7 @@ p {
 }
 
 #two i {
-    color: whitesmoke;
+    color: #E3EC00;
 }
 
 #three i {
@@ -80,6 +80,10 @@ p {
 
 #five i {
     color: #897200;
+}
+
+#six i {
+    color: whitesmoke;
 }
 
 footer {
