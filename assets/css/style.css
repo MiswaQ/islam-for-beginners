@@ -9,7 +9,7 @@ p {
     font-family: 'Alice', serif;
 }
 
-#mecca h1 {
+.mecca h1 {
     font-size: 60px;
     color: black;
     position: relative;
@@ -37,10 +37,19 @@ p {
     border: none;
 }
 
-#mecca {
+.mecca {
     height: 300px;
     width: auto;
     background: url('../images/mecca.jpg') no-repeat center center;
+    background-size: 100%;
+    border: 5px solid #00BB9D;
+    background-color: #006D89;
+}
+
+#medina {
+    height: 300px;
+    width: auto;
+    background: url('../images/medina.jpeg') no-repeat center center;
     background-size: 100%;
     border: 5px solid #00BB9D;
     background-color: #006D89;
