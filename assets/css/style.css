@@ -46,3 +46,9 @@ body {
 i {
     color: #00DF75;
 }
+
+#intro {
+    height: 300px;
+    width: auto;
+    text-align: center;
+}
