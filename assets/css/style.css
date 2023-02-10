@@ -42,14 +42,14 @@ p {
     width: auto;
     background: url('../images/mecca.jpg') no-repeat center center;
     background-size: 100%;
-    border: 10px solid #00BB9D;
+    border: 5px solid #00BB9D;
     background-color: #006D89;
 }
 
 .intro {
     height: 250px;
     width: auto;
-    border: 3px solid #006D89;
+    border: 5px solid #006D89;
     background-color: #00DF75;
 }
 
