@@ -55,6 +55,15 @@ p {
     background-color: #006D89;
 }
 
+#pray {
+    height: 300px;
+    width: auto;
+    background: url('../images/pray.png') no-repeat center center;
+    background-size: 100%;
+    border: 5px solid #00BB9D;
+    background-color: #006D89;
+}
+
 .intro {
     height: 250px;
     width: auto;
