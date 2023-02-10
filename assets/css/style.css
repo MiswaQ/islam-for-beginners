@@ -25,7 +25,6 @@ body {
 
 #links a:hover {
     color: #12FF00;
-    display: block;
 }
 
 * {
@@ -43,12 +42,19 @@ body {
     background-color: #006D89;
 }
 
-i {
-    color: #00DF75;
+.intro {
+    height: 250px;
+    width: 100%;
+    border: 3px solid #006D89;
+    text-align: center;
 }
 
-#intro {
-    height: 300px;
-    width: auto;
+.intro .first {
+    width: 50%;
+    font-size: 100px;
+    text-align: center;
+}
+
+.intro .second {
     text-align: center;
 }
