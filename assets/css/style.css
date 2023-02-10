@@ -62,3 +62,21 @@ p {
 .intro .second {
     text-align: center;
 }
+
+footer {
+    height: 50px;
+}
+
+.socialn {
+    text-align: center;
+}
+
+.socialn li {
+    display: inline;
+}
+
+.socialn i {
+    font-size: 200%;
+    margin: 1%;
+    padding: 3%;
+}
