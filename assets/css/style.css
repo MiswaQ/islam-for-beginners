@@ -5,7 +5,7 @@ body {
     font-weight: 300;
 }
 
-h1 {
+#mecca h1 {
     font-size: 100px;
     color: black;
     position: relative;
@@ -14,7 +14,6 @@ h1 {
 #links {
     letter-spacing: 3px;
     font-size: 110%;
-
 }
 
 #links a {
@@ -42,4 +41,8 @@ h1 {
     background-size: 100%;
     border: 10px solid #00BB9D;
     background-color: #006D89;
+}
+
+i {
+    color: #00DF75;
 }
