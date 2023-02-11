@@ -127,7 +127,7 @@ nav li {
 }
 
 footer {
-    height: 50px;
+    height: auto;
     background-color: #00BB9D;
     border: 5px solid #006D89;
 }
