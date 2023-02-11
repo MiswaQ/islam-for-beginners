@@ -9,14 +9,16 @@ p {
     font-family: 'Alice', serif;
     font-size: large;
     text-align: justify;
-    margin-left: 8px;
-    margin-right: 8px;
+    margin-left: 17px;
+    margin-right: 17px;
+    margin-bottom: 17px;
 }
 
 .mecca h1 {
     font-size: 60px;
     color: black;
     position: relative;
+    margin-left: 15px;
 }
 
 #links {
@@ -30,7 +32,8 @@ nav ul {
 
 nav li {
     display: inline-block;
-    margin-top: 60%;
+    margin-top: 58%;
+    margin-right: 12px;
 }
 
 #links a {
@@ -69,7 +72,7 @@ nav li {
     border-image: url('../images/3mosaic.jpg') 15 15 / 15px 15px 15px 15px;
 
 }
-"
+
 #pray {
     height: 300px;
     width: auto;
