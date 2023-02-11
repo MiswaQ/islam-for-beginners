@@ -94,6 +94,10 @@ nav li {
     border: 5px solid;
 }
 
+.one {
+    height: 100%;
+}
+
 #one i {
     color: #038900;
 }
