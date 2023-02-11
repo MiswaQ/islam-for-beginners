@@ -7,6 +7,10 @@ body {
 
 p {
     font-family: 'Alice', serif;
+    font-size: large;
+    text-align: justify;
+    margin-left: 8px;
+    margin-right: 8px;
 }
 
 .mecca h1 {
@@ -155,4 +159,11 @@ footer {
 #right {
     background-color: #006D89;
     border-color: #00BB9D;
+}
+
+.testim li {
+    background-color: #038900;
+    color: whitesmoke;
+    text-align: justify;
+    margin: 5px 60px 5px 60px;
 }
