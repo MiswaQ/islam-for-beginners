@@ -56,6 +56,7 @@ nav li {
     background-size: 100%;
     border: 5px solid #00BB9D;
     background-color: #006D89;
+    
 }
 
 #medina {
@@ -63,7 +64,7 @@ nav li {
     width: auto;
     background: url('../images/medina.jpeg') no-repeat center center;
     background-size: 100%;
-    border: 5px solid #00BB9D;
+    border: 15px solid #00BB9D;
     background-color: #006D89;
 }
 
@@ -93,9 +94,9 @@ nav li {
 }
 
 .moh {
-    height: 1200px;
+    height: auto;
     width: auto;
-    border: 5px solid;
+    border: 15px solid;
 }
 
 .one {
@@ -129,7 +130,7 @@ nav li {
 footer {
     height: auto;
     background-color: #00BB9D;
-    border: 5px solid #006D89;
+    border: 15px solid #006D89;
 }
 
 .socialn {
@@ -162,7 +163,7 @@ footer {
 }
 
 .testim li {
-    background-color: #038900;
+    background-color: #ABB10C;
     color: whitesmoke;
     text-align: justify;
     margin: 5px 60px 5px 60px;
