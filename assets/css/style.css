@@ -56,18 +56,20 @@ nav li {
     background-size: 100%;
     border: 5px solid #00BB9D;
     background-color: #006D89;
-    
+
 }
 
 #medina {
     height: 300px;
     width: auto;
     background: url('../images/medina.jpeg') no-repeat center center;
-    background-size: 100%;
-    border: 15px solid #00BB9D;
+    background-size: contain;
+    border: solid #00BB9D;
     background-color: #006D89;
-}
+    border-image: url('../images/3mosaic.jpg') 15 15 / 15px 15px 15px 15px;
 
+}
+"
 #pray {
     height: 300px;
     width: auto;
@@ -96,7 +98,9 @@ nav li {
 .moh {
     height: auto;
     width: auto;
-    border: 15px solid;
+    border: solid;
+    border-image: url('../images/3mosaic.jpg') 15 15 / 15px 15px 15px 15px;
+
 }
 
 .one {
@@ -131,6 +135,8 @@ footer {
     height: auto;
     background-color: #00BB9D;
     border: 15px solid #006D89;
+    border-image: url('../images/3mosaic.jpg') 15 15 / 15px 15px 15px 15px;
+
 }
 
 .socialn {
