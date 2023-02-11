@@ -59,18 +59,19 @@ nav li {
     background-size: 100%;
     border: 5px solid #00BB9D;
     background-color: #006D89;
-
+    border-image: url('../images/mosaic1.jpg') 15 15 / 15px 15px 15px 15px;
+    border-image-repeat: repeat;
 }
 
 #medina {
     height: 300px;
     width: auto;
     background: url('../images/medina.jpeg') no-repeat center center;
-    background-size: contain;
+    background-size: 100%;
     border: solid #00BB9D;
     background-color: #006D89;
-    border-image: url('../images/3mosaic.jpg') 15 15 / 15px 15px 15px 15px;
-
+    border-image: url('../images/mosaic2.jpg') 15 15 / 15px 15px 15px 15px;
+    border-image-repeat: repeat;
 }
 
 #pray {
@@ -80,6 +81,8 @@ nav li {
     background-size: 100%;
     border: 5px solid #00BB9D;
     background-color: #006D89;
+    border-image: url('../images/mosaic3.jpg') 15 15 / 15px 15px 15px 15px;
+    border-image-repeat: repeat;
 }
 
 .intro {
@@ -102,8 +105,8 @@ nav li {
     height: auto;
     width: auto;
     border: solid;
-    border-image: url('../images/3mosaic.jpg') 15 15 / 15px 15px 15px 15px;
-
+    border-image: url('../images/mosaic2.jpg') 15 15 / 15px 15px 15px 15px;
+    border-image-repeat: repeat;
 }
 
 .one {
@@ -134,12 +137,28 @@ nav li {
     color: whitesmoke;
 }
 
-footer {
+footer .one {
     height: auto;
     background-color: #00BB9D;
     border: 15px solid #006D89;
-    border-image: url('../images/3mosaic.jpg') 15 15 / 15px 15px 15px 15px;
+    border-image: url('../images/mosaic1.jpg') 15 15 / 15px 15px 15px 15px;
+    border-image-repeat: repeat;
+}
 
+footer .two {
+    height: auto;
+    background-color: #00BB9D;
+    border: 15px solid #006D89;
+    border-image: url('../images/mosaic2.jpg') 15 15 / 15px 15px 15px 15px;
+    border-image-repeat: repeat;
+}
+
+footer .three {
+    height: auto;
+    background-color: #00BB9D;
+    border: 15px solid #006D89;
+    border-image: url('../images/mosaic3.jpg') 15 15 / 15px 15px 15px 15px;
+    border-image-repeat: repeat;
 }
 
 .socialn {
