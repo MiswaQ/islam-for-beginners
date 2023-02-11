@@ -9,6 +9,12 @@ p {
     font-family: 'Alice', serif;
     font-size: large;
     text-align: justify;
+}
+
+.moh p {
+    font-family: 'Alice', serif;
+    font-size: large;
+    text-align: justify;
     margin-left: 17px;
     margin-right: 17px;
     margin-bottom: 17px;
@@ -57,7 +63,7 @@ nav li {
     width: auto;
     background: url('../images/mecca.jpg') no-repeat center center;
     background-size: 100%;
-    border: 5px solid #00BB9D;
+    border: solid #00BB9D;
     background-color: #006D89;
     border-image: url('../images/mosaic1.jpg') 15 15 / 15px 15px 15px 15px;
     border-image-repeat: repeat;
@@ -79,7 +85,7 @@ nav li {
     width: auto;
     background: url('../images/pray.png') no-repeat center center;
     background-size: 100%;
-    border: 5px solid #00BB9D;
+    border: solid #00BB9D;
     background-color: #006D89;
     border-image: url('../images/mosaic3.jpg') 15 15 / 15px 15px 15px 15px;
     border-image-repeat: repeat;
@@ -88,7 +94,7 @@ nav li {
 .intro {
     height: 250px;
     width: auto;
-    border: 5px solid;
+    border: 15px solid;
 }
 
 .intro .first {
@@ -101,11 +107,27 @@ nav li {
     text-align: center;
 }
 
+.islam {
+    height: auto;
+    width: auto;
+    border: solid;
+    border-image: url('../images/mosaic1.jpg') 15 15 / 15px 15px 15px 15px;
+    border-image-repeat: repeat;
+}
+
 .moh {
     height: auto;
     width: auto;
     border: solid;
-    border-image: url('../images/mosaic2.jpg') 15 15 / 15px 15px 15px 15px;
+    border-image: url('../images/mosaic2.jpg') 15 15 / 15px 4px 15px 4px;
+    border-image-repeat: repeat;
+}
+
+.pray {
+    height: auto;
+    width: auto;
+    border: solid;
+    border-image: url('../images/mosaic1.jpg') 15 15 / 15px 15px 15px 15px;
     border-image-repeat: repeat;
 }
 
@@ -137,6 +159,44 @@ nav li {
     color: whitesmoke;
 }
 
+.socialn {
+    text-align: center;
+}
+
+.socialn li {
+    display: inline;
+}
+
+.socialn i {
+    font-size: 200%;
+    margin: 1%;
+    padding: 1%;
+    color: black;
+}
+
+.socialn i:hover {
+    color: #006D89;
+}
+
+#left {
+    background-color: #00BB9D;
+    border-color: transparent;
+    margin: 12px 12px 12px 12px;
+}
+
+#right {
+    background-color: #006D89;
+    border-color: transparent;
+    margin: 12px 12px 12px 12px;
+}
+
+.testim li {
+    background-color: #ABB10C;
+    color: whitesmoke;
+    text-align: justify;
+    margin: 5px 60px 5px 60px;
+}
+
 footer .one {
     height: auto;
     background-color: #00BB9D;
@@ -159,40 +219,4 @@ footer .three {
     border: 15px solid #006D89;
     border-image: url('../images/mosaic3.jpg') 15 15 / 15px 15px 15px 15px;
     border-image-repeat: repeat;
-}
-
-.socialn {
-    text-align: center;
-}
-
-.socialn li {
-    display: inline;
-}
-
-.socialn i {
-    font-size: 200%;
-    margin: 1%;
-    padding: 1%;
-    color: black;
-}
-
-.socialn i:hover {
-    color: #006D89;
-}
-
-#left {
-    background-color: #00BB9D;
-    border-color: #006D89;
-}
-
-#right {
-    background-color: #006D89;
-    border-color: #00BB9D;
-}
-
-.testim li {
-    background-color: #ABB10C;
-    color: whitesmoke;
-    text-align: justify;
-    margin: 5px 60px 5px 60px;
 }
