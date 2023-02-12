@@ -11,6 +11,12 @@ body {
     font-weight: 100;
 }
 
+p {
+    font-family: 'Alice', serif;
+    font-size: large;
+    text-align: justify;
+}
+
 /* header index */
 .mecca {
     height: 300px;
@@ -31,7 +37,7 @@ body {
 }
 
 /* nav bar */
-#links {
+#navlink {
     letter-spacing: 3px;
     font-size: 110%;
 }
@@ -46,22 +52,188 @@ nav li {
     margin-right: 12px;
 }
 
-#links a {
+#navlink a {
     color: whitesmoke;
     background-color: #038900;
     text-decoration: none;
 }
 
-#links a:hover {
+#navlink a:hover {
     color: #891C00;
 }
 
-p {
-    font-family: 'Alice', serif;
-    font-size: large;
-    text-align: justify;
+/* Index */
+.islam {
+    height: auto;
+    width: auto;
+    border: solid;
+    border-image: url('../images/mosaic1.jpg') 15 15 / 15px 15px 15px 15px;
+    border-image-repeat: repeat;
 }
 
+#moon img {
+    width: auto;
+    height: 100%;
+}
+
+#moon {
+    background-color: #00BB9D;
+    border-color: transparent;
+    margin: 12px 12px 12px 12px;
+}
+
+.intro1 {
+    height: 250px;
+    width: auto;
+    border: 15px solid;
+}
+
+.one {
+    height: 100%;
+}
+
+.intro1 .first {
+    width: 100%;
+    font-size: 100px;
+    text-align: center;
+}
+
+#icon i {
+    color: #038900;
+}
+
+.intro1 .green {
+    width: 100%;
+    font-size: 100px;
+    text-align: center;
+}
+
+.intro1 .second {
+    text-align: center;
+}
+
+#finger {
+    background-color: #006D89;
+    border-color: transparent;
+    margin: 12px 12px 12px 12px;
+}
+
+#finger img {
+    width: auto;
+    height: 100%;
+}
+
+.intro1 .yellow {
+    width: 100%;
+    font-size: 100px;
+    text-align: center;
+}
+
+#finger i {
+    color: #E3EC00;
+}
+
+.testim li {
+    background-color: #ABB10C;
+    color: whitesmoke;
+    text-align: justify;
+    margin: 5px 60px 5px 60px;
+}
+
+#mat img {
+    width: auto;
+    height: 100%;
+}
+
+#mat {
+    background-color: #00BB9D;
+    border-color: transparent;
+    margin: 12px 12px 12px 12px;
+}
+
+.intro1 .purple {
+    width: 100%;
+    font-size: 100px;
+    text-align: center;
+}
+
+#mat i {
+    color: #89007F;
+}
+
+.intro1 .red {
+    width: 100%;
+    font-size: 100px;
+    text-align: center;
+}
+
+#stop i {
+    color: #891C00;
+}
+
+#stop {
+    background-color: #006D89;
+    border-color: transparent;
+    margin: 12px 12px 12px 12px;
+}
+
+#stop img {
+    width: auto;
+    height: 100%;
+}
+
+.intro1 .gold {
+    width: 100%;
+    font-size: 100px;
+    text-align: center;
+}
+
+#cash i {
+    color: #897200;
+}
+
+#cash img {
+    width: auto;
+    height: 100%;
+}
+
+#cash {
+    background-color: #00BB9D;
+    border-color: transparent;
+    margin: 12px 12px 12px 12px;
+}
+
+.intro1 .white {
+    width: 100%;
+    font-size: 100px;
+    text-align: center;
+}
+
+#kaaba i {
+    color: whitesmoke;
+}
+
+#kaaba {
+    background-color: #006D89;
+    border-color: transparent;
+    margin: 12px 12px 12px 12px;
+}
+
+#kaaba img {
+    width: auto;
+    height: 100%;
+}
+
+footer .one {
+    height: auto;
+    background-color: #00BB9D;
+    border: 15px solid #006D89;
+    border-image: url('../images/mosaic1.jpg') 15 15 / 15px 15px 15px 15px;
+    border-image-repeat: repeat;
+}
+/* end first */
+
+/* mohammed */
 .moh p {
     font-family: 'Alice', serif;
     font-size: large;
@@ -69,6 +241,14 @@ p {
     margin-left: 17px;
     margin-right: 17px;
     margin-bottom: 17px;
+}
+
+.moh {
+    height: auto;
+    width: auto;
+    border: solid;
+    border-image: url('../images/mosaic2.jpg') 15 15 / 15px 4px 15px 4px;
+    border-image-repeat: repeat;
 }
 
 #medina {
@@ -81,6 +261,55 @@ p {
     border-image: url('../images/mosaic2.jpg') 15 15 / 15px 15px 15px 15px;
     border-image-repeat: repeat;
 }
+
+.intro2 {
+    height: 250px;
+    width: auto;
+    border: 15px solid;
+}
+
+.intro2 .green {
+    width: 100%;
+    font-size: 100px;
+    text-align: center;
+}
+
+.intro2 .second {
+    text-align: center;
+}
+
+#way i {
+    color: #038900;
+}
+
+#way img {
+    width: auto;
+    height: 100%;
+}
+
+#way {
+    height: 100%;
+    background-color: #00BB9D;
+    border-color: transparent;
+    margin: 12px 12px 12px 12px;
+}
+
+footer .two {
+    height: auto;
+    background-color: #00BB9D;
+    border: 15px solid #006D89;
+    border-image: url('../images/mosaic2.jpg') 15 15 / 15px 15px 15px 15px;
+    border-image-repeat: repeat;
+}
+
+/* end */
+
+
+
+
+
+
+
 
 #pray {
     height: 300px;
@@ -109,22 +338,6 @@ p {
     text-align: center;
 }
 
-.islam {
-    height: auto;
-    width: auto;
-    border: solid;
-    border-image: url('../images/mosaic1.jpg') 15 15 / 15px 15px 15px 15px;
-    border-image-repeat: repeat;
-}
-
-.moh {
-    height: auto;
-    width: auto;
-    border: solid;
-    border-image: url('../images/mosaic2.jpg') 15 15 / 15px 4px 15px 4px;
-    border-image-repeat: repeat;
-}
-
 .pray {
     height: auto;
     width: auto;
@@ -137,9 +350,7 @@ p {
     block-size: inherit;
 }
 
-.one {
-    height: 100%;
-}
+
 
 #one i {
     color: #038900;
@@ -184,11 +395,6 @@ p {
     color: #006D89;
 }
 
-#left {
-    background-color: #00BB9D;
-    border-color: transparent;
-    margin: 12px 12px 12px 12px;
-}
 
 #right {
     background-color: #006D89;
@@ -206,28 +412,14 @@ p {
     height: 100%;
 }
 
-.testim li {
-    background-color: #ABB10C;
-    color: whitesmoke;
-    text-align: justify;
-    margin: 5px 60px 5px 60px;
+#left {
+    background-color: #00BB9D;
+    border-color: transparent;
+    margin: 12px 12px 12px 12px;
 }
 
-footer .one {
-    height: auto;
-    background-color: #00BB9D;
-    border: 15px solid #006D89;
-    border-image: url('../images/mosaic1.jpg') 15 15 / 15px 15px 15px 15px;
-    border-image-repeat: repeat;
-}
 
-footer .two {
-    height: auto;
-    background-color: #00BB9D;
-    border: 15px solid #006D89;
-    border-image: url('../images/mosaic2.jpg') 15 15 / 15px 15px 15px 15px;
-    border-image-repeat: repeat;
-}
+/* footer backgrounds */
 
 footer .three {
     height: auto;
