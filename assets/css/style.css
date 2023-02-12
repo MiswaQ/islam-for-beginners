@@ -132,7 +132,7 @@ nav li {
 }
 
 .salat {
-    height: 430px;
+    block-size: inherit;
 }
 
 .one {
@@ -192,6 +192,7 @@ nav li {
     background-color: #006D89;
     border-color: transparent;
     margin: 12px 12px 12px 12px;
+    block-size: inherit;
 }
 
 #right img {
