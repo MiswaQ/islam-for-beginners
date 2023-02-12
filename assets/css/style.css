@@ -194,6 +194,16 @@ nav li {
     margin: 12px 12px 12px 12px;
 }
 
+#right img {
+    width: auto;
+    height: 100%;
+}
+
+#left img {
+    width: auto;
+    height: 100%;
+}
+
 .testim li {
     background-color: #ABB10C;
     color: whitesmoke;
