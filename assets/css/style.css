@@ -131,6 +131,10 @@ nav li {
     border-image-repeat: repeat;
 }
 
+.salat {
+    height: 430px;
+}
+
 .one {
     height: 100%;
 }
