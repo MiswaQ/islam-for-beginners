@@ -428,59 +428,114 @@ footer .two {
     margin: 12px 12px 12px 12px;
 }
 
-.salat {
-    block-size: inherit;
-}
-
-
-
-
-
-
-
-.intro {
+.intro3 {
     height: 250px;
     width: auto;
     border: 15px solid;
 }
 
-.intro .first {
+.intro3 .brown {
     width: 100%;
     font-size: 100px;
     text-align: center;
 }
 
-.intro .second {
+.intro3 .second {
     text-align: center;
 }
 
-
-
-
-#one i {
-    color: #038900;
-}
-
-#two i {
-    color: #E3EC00;
-}
-
-#three i {
-    color: #89007F;
-}
-
-#four i {
+#tre i {
     color: #891C00;
 }
 
-#five i {
+#tre {
+    background-color: #006D89;
+    border-color: transparent;
+    margin: 12px 12px 12px 12px;
+}
+
+#tre img {
+    width: auto;
+    height: 100%;
+}
+
+.intro3 {
+    height: 250px;
+    width: auto;
+    border: 15px solid;
+}
+
+.intro3 .gold {
+    width: 100%;
+    font-size: 100px;
+    text-align: center;
+}
+
+.intro3 .second {
+    text-align: center;
+}
+
+#fyra i {
     color: #897200;
 }
 
-#six i {
+#fyra img {
+    width: auto;
+    height: 100%;
+}
+
+#fyra {
+    background-color: #00BB9D;
+    border-color: transparent;
+    margin: 12px 12px 12px 12px;
+}
+
+.intro3 {
+    height: 250px;
+    width: auto;
+    border: 15px solid;
+}
+
+.intro3 .white {
+    width: 100%;
+    font-size: 100px;
+    text-align: center;
+}
+
+.intro3 .second {
+    text-align: center;
+}
+
+#fem i {
     color: whitesmoke;
 }
 
+#fem {
+    background-color: #006D89;
+    border-color: transparent;
+    margin: 12px 12px 12px 12px;
+}
+
+#fem img {
+    width: auto;
+    height: 100%;
+}
+
+.salat {
+    block-size: inherit;
+}
+
+footer .three {
+    height: auto;
+    background-color: #00BB9D;
+    border: 15px solid #006D89;
+    border-image: url('../images/mosaic3.jpg') 15 15 / 15px 15px 15px 15px;
+    border-image-repeat: repeat;
+}
+
+/* end third */
+
+/* social media links behavior */
 .socialn {
     text-align: center;
 }
@@ -498,38 +553,4 @@ footer .two {
 
 .socialn i:hover {
     color: #006D89;
-}
-
-
-#right {
-    background-color: #006D89;
-    border-color: transparent;
-    margin: 12px 12px 12px 12px;
-}
-
-#right img {
-    width: auto;
-    height: 100%;
-}
-
-#left img {
-    width: auto;
-    height: 100%;
-}
-
-#left {
-    background-color: #00BB9D;
-    border-color: transparent;
-    margin: 12px 12px 12px 12px;
-}
-
-
-/* footer backgrounds */
-
-footer .three {
-    height: auto;
-    background-color: #00BB9D;
-    border: 15px solid #006D89;
-    border-image: url('../images/mosaic3.jpg') 15 15 / 15px 15px 15px 15px;
-    border-image-repeat: repeat;
 }
