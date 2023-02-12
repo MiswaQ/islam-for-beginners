@@ -234,6 +234,13 @@ footer .one {
 /* end first */
 
 /* mohammed */
+#medina h1 {
+    font-size: 60px;
+    color: black;
+    position: relative;
+    margin-left: 15px;
+}
+
 .moh p {
     font-family: 'Alice', serif;
     font-size: large;
@@ -302,14 +309,16 @@ footer .two {
     border-image-repeat: repeat;
 }
 
-/* end */
+/* end second */
 
+/* Prayers */
 
-
-
-
-
-
+#pray h1 {
+    font-size: 60px;
+    color: black;
+    position: relative;
+    margin-left: 15px;
+}
 
 #pray {
     height: 300px;
@@ -321,6 +330,113 @@ footer .two {
     border-image: url('../images/mosaic3.jpg') 15 15 / 15px 15px 15px 15px;
     border-image-repeat: repeat;
 }
+
+.pray {
+    height: auto;
+    width: auto;
+    border: solid;
+    border-image: url('../images/mosaic1.jpg') 15 15 / 15px 15px 15px 15px;
+    border-image-repeat: repeat;
+}
+
+.intro3 {
+    height: 250px;
+    width: auto;
+    border: 15px solid;
+}
+
+.intro3 .green {
+    width: 100%;
+    font-size: 100px;
+    text-align: center;
+}
+
+.intro3 .second {
+    text-align: center;
+}
+
+#kneel img {
+    width: auto;
+    height: 100%;
+}
+
+#kneel {
+    background-color: #00BB9D;
+    border-color: transparent;
+    margin: 12px 12px 12px 12px;
+}
+
+.intro3 {
+    height: 250px;
+    width: auto;
+    border: 15px solid;
+}
+
+.intro3 .yellow {
+    width: 100%;
+    font-size: 100px;
+    text-align: center;
+}
+
+.intro3 .second {
+    text-align: center;
+}
+
+#ett i {
+    color: #E3EC00;
+}
+
+#ett {
+    background-color: #006D89;
+    border-color: transparent;
+    margin: 12px 12px 12px 12px;
+}
+
+#ett img {
+    width: auto;
+    height: 100%;
+}
+
+.intro3 {
+    height: 250px;
+    width: auto;
+    border: 15px solid;
+}
+
+.intro3 .purple {
+    width: 100%;
+    font-size: 100px;
+    text-align: center;
+}
+
+.intro3 .second {
+    text-align: center;
+}
+
+#tvo i {
+    color: #89007F;
+}
+
+#tvo img {
+    width: auto;
+    height: 100%;
+}
+
+#tvo {
+    background-color: #00BB9D;
+    border-color: transparent;
+    margin: 12px 12px 12px 12px;
+}
+
+.salat {
+    block-size: inherit;
+}
+
+
+
+
+
+
 
 .intro {
     height: 250px;
@@ -338,17 +454,6 @@ footer .two {
     text-align: center;
 }
 
-.pray {
-    height: auto;
-    width: auto;
-    border: solid;
-    border-image: url('../images/mosaic1.jpg') 15 15 / 15px 15px 15px 15px;
-    border-image-repeat: repeat;
-}
-
-.salat {
-    block-size: inherit;
-}
 
 
 
