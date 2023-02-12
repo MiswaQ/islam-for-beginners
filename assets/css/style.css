@@ -1,23 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Alice&family=Playfair+Display+SC:wght@900&display=swap');
 
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
 body {
     font-family: 'Playfair Display SC', serif;
     font-weight: 100;
 }
 
-p {
-    font-family: 'Alice', serif;
-    font-size: large;
-    text-align: justify;
-}
-
-.moh p {
-    font-family: 'Alice', serif;
-    font-size: large;
-    text-align: justify;
-    margin-left: 17px;
-    margin-right: 17px;
-    margin-bottom: 17px;
+/* header index */
+.mecca {
+    height: 300px;
+    width: auto;
+    background: url('../images/mecca.jpg') no-repeat center center;
+    background-size: 100%;
+    border: solid #00BB9D;
+    background-color: #006D89;
+    border-image: url('../images/mosaic1.jpg') 15 15 / 15px 15px 15px 15px;
+    border-image-repeat: repeat;
 }
 
 .mecca h1 {
@@ -27,6 +30,7 @@ p {
     margin-left: 15px;
 }
 
+/* nav bar */
 #links {
     letter-spacing: 3px;
     font-size: 110%;
@@ -52,21 +56,19 @@ nav li {
     color: #891C00;
 }
 
-* {
-    margin: 0;
-    padding: 0;
-    border: none;
+p {
+    font-family: 'Alice', serif;
+    font-size: large;
+    text-align: justify;
 }
 
-.mecca {
-    height: 300px;
-    width: auto;
-    background: url('../images/mecca.jpg') no-repeat center center;
-    background-size: 100%;
-    border: solid #00BB9D;
-    background-color: #006D89;
-    border-image: url('../images/mosaic1.jpg') 15 15 / 15px 15px 15px 15px;
-    border-image-repeat: repeat;
+.moh p {
+    font-family: 'Alice', serif;
+    font-size: large;
+    text-align: justify;
+    margin-left: 17px;
+    margin-right: 17px;
+    margin-bottom: 17px;
 }
 
 #medina {
@@ -192,7 +194,6 @@ nav li {
     background-color: #006D89;
     border-color: transparent;
     margin: 12px 12px 12px 12px;
-    block-size: inherit;
 }
 
 #right img {
