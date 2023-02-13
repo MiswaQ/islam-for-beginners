@@ -233,7 +233,7 @@ footer .one {
 }
 /* end first */
 
-/* mohammed */
+/* mohammad */
 #medina h1 {
     font-size: 60px;
     color: black;
@@ -568,7 +568,7 @@ footer .three {
     }
 }
 
-/* text change with decreasing size of screen mohammed */
+/* text change with decreasing size of screen mohammad */
 @media screen and (max-width: 525px) {
     #medina h1 {
         font-size: 40px;
