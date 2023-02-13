@@ -538,19 +538,31 @@ footer .three {
 /* social media links behavior */
 .socialn {
     text-align: center;
-}
+    
+    
+
+}    
 
 .socialn li {
     display: inline;
-}
+}    
 
 .socialn i {
     font-size: 200%;
     margin: 1%;
     padding: 1%;
     color: black;
-}
+}    
 
 .socialn i:hover {
     color: #006D89;
+}    
+
+/* Responsiv part starts here */
+
+@media screen and (max-width: 358px) {
+    #navlink {
+        font-size: 85%;
+        margin-top: 10%;
+    }
 }
