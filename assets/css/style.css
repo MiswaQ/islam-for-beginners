@@ -560,9 +560,21 @@ footer .three {
 
 /* Responsiv part starts here */
 
+/* nav link responsive resize to fit screen */
 @media screen and (max-width: 358px) {
     #navlink {
         font-size: 85%;
         margin-top: 10%;
     }
+}
+
+/* text change with decreasing size of screen mohammed */
+@media screen and (max-width: 525px) {
+    #medina h1 {
+        font-size: 40px;
+    }
+
+    
+
+    
 }
