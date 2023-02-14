@@ -14,7 +14,7 @@ body {
 p {
     font-family: 'Alice', serif;
     font-size: large;
-    text-align: justify;
+    text-align: left;
 }
 
 /* header index */
@@ -244,7 +244,7 @@ footer .one {
 .moh p {
     font-family: 'Alice', serif;
     font-size: large;
-    text-align: justify;
+    text-align: left;
     margin-left: 17px;
     margin-right: 17px;
     margin-bottom: 17px;
@@ -573,8 +573,27 @@ footer .three {
     #medina h1 {
         font-size: 40px;
     }
+}
 
-    
+/* text change to over flow for two places */
+@media screen and (max-width: 520px) {
+    #tvo {
+        overflow: scroll;
+    }
 
-    
+    #fem {
+        overflow: scroll;
+    }
+}
+
+
+
+@media screen and (max-width: 389px) {
+    #tre {
+        overflow: scroll;
+    }
+
+    #fyra {
+        overflow: scroll;
+    }
 }
