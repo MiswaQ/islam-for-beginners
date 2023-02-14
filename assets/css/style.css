@@ -25,8 +25,8 @@ p {
     background-size: 100%;
     border: solid #00BB9D;
     background-color: #006D89;
-    border-image: url('../images/mosaic1.jpg') 15 15 / 15px 15px 15px 15px;
-    border-image-repeat: repeat;
+   /* border-image: url('../images/mosaic1.jpg') 15 15 / 15px 15px 15px 15px;
+    border-image-repeat: repeat;*/
 }
 
 .mecca h1 {
@@ -63,6 +63,7 @@ nav li {
 }
 
 /* Index */
+/*
 .islam {
     height: auto;
     width: auto;
@@ -70,6 +71,7 @@ nav li {
     border-image: url('../images/mosaic1.jpg') 15 15 / 15px 15px 15px 15px;
     border-image-repeat: repeat;
 }
+*/
 
 #moon img {
     width: auto;
@@ -224,6 +226,7 @@ nav li {
     height: 100%;
 }
 
+/*
 footer .one {
     height: auto;
     background-color: #00BB9D;
@@ -231,6 +234,8 @@ footer .one {
     border-image: url('../images/mosaic1.jpg') 15 15 / 15px 15px 15px 15px;
     border-image-repeat: repeat;
 }
+*/
+
 /* end first */
 
 /* mohammad */
@@ -250,6 +255,7 @@ footer .one {
     margin-bottom: 17px;
 }
 
+/*
 .moh {
     height: auto;
     width: auto;
@@ -257,16 +263,17 @@ footer .one {
     border-image: url('../images/mosaic2.jpg') 15 15 / 15px 4px 15px 4px;
     border-image-repeat: repeat;
 }
+*/
 
 #medina {
     height: 300px;
     width: auto;
-    background: url('../images/medina.jpeg') no-repeat center center;
+    background: url('../images/medina.png') no-repeat center center;
     background-size: 100%;
     border: solid #00BB9D;
     background-color: #006D89;
-    border-image: url('../images/mosaic2.jpg') 15 15 / 15px 15px 15px 15px;
-    border-image-repeat: repeat;
+   /* border-image: url('../images/mosaic2.jpg') 15 15 / 15px 15px 15px 15px;
+    border-image-repeat: repeat; */
 }
 
 .intro2 {
@@ -305,8 +312,8 @@ footer .two {
     height: auto;
     background-color: #00BB9D;
     border: 15px solid #006D89;
-    border-image: url('../images/mosaic2.jpg') 15 15 / 15px 15px 15px 15px;
-    border-image-repeat: repeat;
+   /* border-image: url('../images/mosaic2.jpg') 15 15 / 15px 15px 15px 15px;
+    border-image-repeat: repeat; */
 }
 
 /* end second */
@@ -327,16 +334,16 @@ footer .two {
     background-size: 100%;
     border: solid #00BB9D;
     background-color: #006D89;
-    border-image: url('../images/mosaic3.jpg') 15 15 / 15px 15px 15px 15px;
-    border-image-repeat: repeat;
+   /* border-image: url('../images/mosaic3.jpg') 15 15 / 15px 15px 15px 15px;
+    border-image-repeat: repeat; */
 }
 
 .pray {
     height: auto;
     width: auto;
     border: solid;
-    border-image: url('../images/mosaic1.jpg') 15 15 / 15px 15px 15px 15px;
-    border-image-repeat: repeat;
+   /* border-image: url('../images/mosaic1.jpg') 15 15 / 15px 15px 15px 15px;
+    border-image-repeat: repeat; */
 }
 
 .intro3 {
@@ -534,8 +541,8 @@ footer .three {
     height: auto;
     background-color: #00BB9D;
     border: 15px solid #006D89;
-    border-image: url('../images/mosaic3.jpg') 15 15 / 15px 15px 15px 15px;
-    border-image-repeat: repeat;
+   /* border-image: url('../images/mosaic3.jpg') 15 15 / 15px 15px 15px 15px;
+    border-image-repeat: repeat; */
 }
 
 /* end third */
