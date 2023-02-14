@@ -94,7 +94,7 @@ nav li {
     text-align: center;
 }
 
-#icon i {
+#moon i {
     color: #038900;
 }
 
@@ -367,10 +367,6 @@ footer .two {
     text-align: center;
 }
 
-#ett i {
-    color: #E3EC00;
-}
-
 #ett {
     background-color: #006D89;
     border-color: transparent;
@@ -397,10 +393,6 @@ footer .two {
 
 .intro3 .second {
     text-align: center;
-}
-
-#tvo i {
-    color: #89007F;
 }
 
 #tvo img {
@@ -431,10 +423,6 @@ footer .two {
     text-align: center;
 }
 
-#tre i {
-    color: #891C00;
-}
-
 #tre {
     background-color: #006D89;
     border-color: transparent;
@@ -463,10 +451,6 @@ footer .two {
     text-align: center;
 }
 
-#fyra i {
-    color: #897200;
-}
-
 #fyra img {
     width: auto;
     height: 100%;
@@ -493,10 +477,6 @@ footer .two {
 
 .intro3 .second {
     text-align: center;
-}
-
-#fem i {
-    color: whitesmoke;
 }
 
 #fem {
