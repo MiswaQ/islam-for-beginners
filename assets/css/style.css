@@ -37,7 +37,7 @@ p {
 /* nav bar */
 #navlink {
     letter-spacing: 3px;
-    font-size: 110%;
+    font-size: 100%;
 }
 
 nav ul {
@@ -68,7 +68,7 @@ nav li {
 
 
 #moon img {
-    width: auto;
+    width: 100%;
     height: 100%;
 }
 
@@ -549,9 +549,16 @@ footer .three {
 /* Responsiv part starts here */
 
 /* nav link responsive resize to fit screen */
-@media screen and (max-width: 358px) {
+@media screen and (max-width: 396px) {
     #navlink {
-        font-size: 85%;
+        font-size: 75%;
+        margin-top: 10%;
+    }
+}
+
+@media screen and (max-width: 324px) {
+    #navlink {
+        font-size: 65%;
         margin-top: 10%;
     }
 }
@@ -574,8 +581,6 @@ footer .three {
     }
 }
 
-
-
 @media screen and (max-width: 389px) {
     #tre {
         overflow: scroll;
@@ -585,3 +590,14 @@ footer .three {
         overflow: scroll;
     }
 }
+
+/* icons resize on responsive */
+@media screen and (max-width: 349px) {
+    .fa-solid {
+        font-size: 70%;
+    }
+}
+
+
+
+
