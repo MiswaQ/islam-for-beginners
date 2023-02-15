@@ -21,7 +21,7 @@ p {
 .mecca {
     height: 300px;
     width: auto;
-    background: url('../images/mecca.jpg') no-repeat center center;
+    background: url('../images/mecca.webp') no-repeat center center;
     background-size: 100%;
     border: 15px solid #00BB9D;
     background-color: #006D89;
@@ -255,7 +255,7 @@ footer .one {
 #medina {
     height: 300px;
     width: auto;
-    background: url('../images/medina.png') no-repeat center center;
+    background: url('../images/medina.webp') no-repeat center center;
     background-size: 100%;
     border: 15px solid #00BB9D;
     background-color: #006D89;
@@ -313,7 +313,7 @@ footer .two {
 #pray {
     height: 300px;
     width: auto;
-    background: url('../images/pray.jpg') no-repeat center center;
+    background: url('../images/pray.webp') no-repeat center center;
     background-size: 100%;
     border: 15px solid #00BB9D;
     background-color: #006D89;
@@ -331,12 +331,6 @@ footer .two {
     border: 15px solid;
 }
 
-.intro3 .green {
-    width: 100%;
-    font-size: 100px;
-    text-align: center;
-}
-
 .intro3 .second {
     text-align: center;
 }
@@ -351,18 +345,6 @@ footer .two {
     border-color: transparent;
     margin: 12px 12px 12px 12px;
     border-radius: 3px;
-}
-
-.intro3 {
-    height: 250px;
-    width: auto;
-    border: 15px solid;
-}
-
-.intro3 .yellow {
-    width: 100%;
-    font-size: 100px;
-    text-align: center;
 }
 
 .intro3 .second {
@@ -382,18 +364,6 @@ footer .two {
     padding-right: 12px;
 }
 
-.intro3 {
-    height: 250px;
-    width: auto;
-    border: 15px solid;
-}
-
-.intro3 .purple {
-    width: 100%;
-    font-size: 100px;
-    text-align: center;
-}
-
 .intro3 .second {
     text-align: center;
 }
@@ -409,18 +379,6 @@ footer .two {
     border-color: transparent;
     margin: 12px 12px 12px 12px;
     border-radius: 3px;
-}
-
-.intro3 {
-    height: 250px;
-    width: auto;
-    border: 15px solid;
-}
-
-.intro3 .brown {
-    width: 100%;
-    font-size: 100px;
-    text-align: center;
 }
 
 .intro3 .second {
@@ -440,18 +398,6 @@ footer .two {
     padding-right: 12px;
 }
 
-.intro3 {
-    height: 250px;
-    width: auto;
-    border: 15px solid;
-}
-
-.intro3 .gold {
-    width: 100%;
-    font-size: 100px;
-    text-align: center;
-}
-
 .intro3 .second {
     text-align: center;
 }
@@ -467,18 +413,6 @@ footer .two {
     border-color: transparent;
     margin: 12px 12px 12px 12px;
     border-radius: 3px;
-}
-
-.intro3 {
-    height: 250px;
-    width: auto;
-    border: 15px solid;
-}
-
-.intro3 .white {
-    width: 100%;
-    font-size: 100px;
-    text-align: center;
 }
 
 .intro3 .second {
