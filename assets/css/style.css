@@ -515,15 +515,11 @@ footer .two {
 
 #ycheck p {
     font-size: 14px;
-    padding-bottom: 0px;
-    padding-top: 2px;
     display: inline;
 }
 
 #ncheck p {
     font-size: 14px;
-    padding-bottom: 0px;
-    padding-top: 2px;
     display: inline;
 }
 
@@ -545,16 +541,8 @@ footer .two {
     border-color: aqua;
 }
 
-/* form css ends here */
-
 .salat {
     block-size: inherit;
-}
-
-footer .three {
-    height: auto;
-    background-color: #00BB9D;
-    border: 15px solid #006D89;
 }
 
 /* end third */
@@ -635,5 +623,21 @@ footer .three {
 }
 
 
+/* result html for form */
+.result {
+    height: 100%;
+    width: auto;
+    background-size: 100%;
+    border: 15px solid #00BB9D;
+    background-color: #006D89;
+    text-align: center;
+}
 
+#result a {
+    color: #006D89;
+}
+
+#result a:hover {
+    color: aqua;
+}
 
