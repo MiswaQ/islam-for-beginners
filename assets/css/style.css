@@ -513,10 +513,22 @@ footer .two {
     padding-bottom: 12px;
 }
 
-#ameen p {
+#ycheck p {
     font-size: 14px;
     padding-bottom: 0px;
     padding-top: 2px;
+    display: inline;
+}
+
+#ncheck p {
+    font-size: 14px;
+    padding-bottom: 0px;
+    padding-top: 2px;
+    display: inline;
+}
+
+.check {
+    display: inline;
 }
 
 .submit {
