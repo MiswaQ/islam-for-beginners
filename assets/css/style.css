@@ -512,6 +512,12 @@ footer .two {
     padding-bottom: 12px;
 }
 
+#sex .ameen p {
+    font-size: 14px;
+    padding-bottom: 0px;
+    padding-top: 2px;
+}
+
 
 .salat {
     block-size: inherit;
