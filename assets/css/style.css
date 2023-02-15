@@ -317,6 +317,7 @@ footer .two {
     background-size: 100%;
     border: 15px solid #00BB9D;
     background-color: #006D89;
+    border-radius: 3px;
 }
 
 .pray {
@@ -349,6 +350,7 @@ footer .two {
     background-color: #00BB9D;
     border-color: transparent;
     margin: 12px 12px 12px 12px;
+    border-radius: 3px;
 }
 
 .intro3 {
@@ -371,6 +373,7 @@ footer .two {
     background-color: #006D89;
     border-color: transparent;
     margin: 12px 12px 12px 12px;
+    border-radius: 3px;
 }
 
 #ett img {
@@ -405,6 +408,7 @@ footer .two {
     background-color: #00BB9D;
     border-color: transparent;
     margin: 12px 12px 12px 12px;
+    border-radius: 3px;
 }
 
 .intro3 {
@@ -427,6 +431,7 @@ footer .two {
     background-color: #006D89;
     border-color: transparent;
     margin: 12px 12px 12px 12px;
+    border-radius: 3px;
 }
 
 #tre img {
@@ -461,6 +466,7 @@ footer .two {
     background-color: #00BB9D;
     border-color: transparent;
     margin: 12px 12px 12px 12px;
+    border-radius: 3px;
 }
 
 .intro3 {
@@ -483,6 +489,7 @@ footer .two {
     background-color: #006D89;
     border-color: transparent;
     margin: 12px 12px 12px 12px;
+    border-radius: 3px;
 }
 
 #fem img {
@@ -490,6 +497,21 @@ footer .two {
     height: 100%;
     padding-right: 12px;
 }
+
+#sex {
+    background-color: #00BB9D;
+    border-color: transparent;
+    margin: 12px 12px 12px 12px;
+    text-align: center;
+    border-radius: 3px;
+}
+
+#sex p {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 12px;
+}
+
 
 .salat {
     block-size: inherit;
