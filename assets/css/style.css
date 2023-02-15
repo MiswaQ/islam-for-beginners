@@ -498,6 +498,7 @@ footer .two {
     padding-right: 12px;
 }
 
+/* form css */
 #sex {
     background-color: #00BB9D;
     border-color: transparent;
@@ -512,12 +513,27 @@ footer .two {
     padding-bottom: 12px;
 }
 
-#sex .ameen p {
+#ameen p {
     font-size: 14px;
     padding-bottom: 0px;
     padding-top: 2px;
 }
 
+.submit {
+    width: 50px;
+    height: 20px;
+    background-color: aqua;
+    border: 2px solid;
+    border-radius: 2px;
+    border-color: #006D89;
+}
+
+.submit:hover {
+    background-color: #006D89;
+    border-color: aqua;
+}
+
+/* form css ends here */
 
 .salat {
     block-size: inherit;
