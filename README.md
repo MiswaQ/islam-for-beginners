@@ -1,3 +1,3 @@
-Hello!
-This is a small effort to give a brief understanding of some information about Islam.
+# Islam For Beginners
 
+![This is an image of Mecca](/assets/images/mecca.webp)
