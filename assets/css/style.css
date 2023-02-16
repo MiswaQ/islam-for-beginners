@@ -383,9 +383,15 @@ footer .two {
     padding-right: 12px;
 }
 
-/* form css */
+.salat {
+    block-size: inherit;
+}
+
+/* end third */
+
+/* form input submit */
 #sex {
-    background-color: #00BB9D;
+    background-color: #00bb67;
     border-color: transparent;
     margin: 12px 12px 12px 12px;
     text-align: center;
@@ -398,9 +404,24 @@ footer .two {
     padding-bottom: 12px;
 }
 
+input[type=text] {
+    width: 100%;
+    display: inline-block;
+    border: 2px solid;
+    border-radius: 3px;
+    padding: 5px 5px;
+}
+
+input[type=email] {
+    width: 100%;
+    display: inline-block;
+    border: 2px solid;
+    border-radius: 3px;
+    padding: 5px 5px;
+}
+
 #submit {
-    width: 60px;
-    height: 30px;
+    width: 50%;
     background-color: aqua;
     border: 2px solid;
     border-radius: 4px;
@@ -413,19 +434,9 @@ footer .two {
     border-color: aqua;
     transition: 0.5s ease;
 }
-
-.salat {
-    block-size: inherit;
-}
-
-/* end third */
-
 /* social media links behavior */
 .socialn {
     text-align: center;
-    
-    
-
 }    
 
 .socialn li {
