@@ -12,6 +12,7 @@ One can find alot of information online both from muslim and non muslim research
 * This is a good page to find information about Islam! [IslamOnline](https://islamonline.net/en/category/discover-islam/)
 
 But here we will focus on 3 parts of Islam.
+
 * Islams five pillars
 * Mohammed (Pbuh) life
 * The five daily prayers
@@ -19,5 +20,10 @@ But here we will focus on 3 parts of Islam.
 
 ## Islams Five Pillars! ##
 
+* Iman - (Shahadah) Testimony of faith
+* Salat - Five daily Prayers
+* Saum - Fasting during the month of Ramadan
+* Zakat - Paying anually to the needy
+* Hajj - Pilgrimage to Mecca
 
 
