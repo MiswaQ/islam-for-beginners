@@ -32,6 +32,7 @@ p {
     color: black;
     position: relative;
     margin-left: 15px;
+    text-shadow: 3px 3px whitesmoke;
 }
 
 /* nav bar */
@@ -61,17 +62,6 @@ nav li {
 }
 
 /* Index */
-.islam {
-    height: auto;
-    width: auto;
-}
-
-
-#moon img {
-    width: 100%;
-    height: 100%;
-}
-
 #moon {
     background-color: #00BB9D;
     border-color: transparent;
@@ -86,12 +76,6 @@ nav li {
 
 .one {
     height: 100%;
-}
-
-.intro1 .first {
-    width: 100%;
-    font-size: 100px;
-    text-align: center;
 }
 
 #moon i {
@@ -114,11 +98,6 @@ nav li {
     margin: 12px 12px 12px 12px;
 }
 
-#finger img {
-    width: auto;
-    height: 100%;
-}
-
 .intro1 .yellow {
     width: 100%;
     font-size: 100px;
@@ -134,11 +113,6 @@ nav li {
     color: whitesmoke;
     text-align: justify;
     margin: 5px 60px 5px 60px;
-}
-
-#mat img {
-    width: auto;
-    height: 100%;
 }
 
 #mat {
@@ -173,11 +147,6 @@ nav li {
     margin: 12px 12px 12px 12px;
 }
 
-#stop img {
-    width: auto;
-    height: 100%;
-}
-
 .intro1 .gold {
     width: 100%;
     font-size: 100px;
@@ -186,11 +155,6 @@ nav li {
 
 #cash i {
     color: #897200;
-}
-
-#cash img {
-    width: auto;
-    height: 100%;
 }
 
 #cash {
@@ -215,11 +179,6 @@ nav li {
     margin: 12px 12px 12px 12px;
 }
 
-#kaaba img {
-    width: auto;
-    height: 100%;
-}
-
 footer .one {
     height: auto;
     background-color: #00BB9D;
@@ -234,6 +193,7 @@ footer .one {
     color: black;
     position: relative;
     margin-left: 15px;
+    text-shadow: 3px 3px whitesmoke;
 }
 
 .moh p {
@@ -308,6 +268,7 @@ footer .two {
     color: black;
     position: relative;
     margin-left: 15px;
+    text-shadow: 3px 3px whitesmoke;
 }
 
 #pray {
@@ -318,11 +279,6 @@ footer .two {
     border: 15px solid #00BB9D;
     background-color: #006D89;
     border-radius: 3px;
-}
-
-.pray {
-    height: auto;
-    width: auto;
 }
 
 .intro3 {
