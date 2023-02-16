@@ -405,34 +405,56 @@ footer .two {
 }
 
 input[type=text] {
-    width: 100%;
+    width: 90%;
     display: inline-block;
     border: 2px solid;
     border-radius: 3px;
     padding: 5px 5px;
+    margin: 2px;
 }
 
 input[type=email] {
-    width: 100%;
+    width: 90%;
     display: inline-block;
     border: 2px solid;
     border-radius: 3px;
     padding: 5px 5px;
+    margin: 2px;
 }
 
 #submit {
-    width: 50%;
+    width: 90%;
+    height: 30px;
     background-color: aqua;
-    border: 2px solid;
+    border: none;
     border-radius: 4px;
     border-color: #006D89;
     margin-top: 5px;
+    font-size: 20px;
 }
 
 #submit:hover {
     background-color: #006D89;
     border-color: aqua;
     transition: 0.5s ease;
+}
+
+/* result html for form */
+.result {
+    height: 100%;
+    width: auto;
+    background-size: 100%;
+    border: 15px solid #00BB9D;
+    background-color: #00bb67;
+    text-align: center;
+}
+
+#result a {
+    color: #006D89;
+}
+
+#result a:hover {
+    color: aqua;
 }
 /* social media links behavior */
 .socialn {
@@ -507,21 +529,5 @@ input[type=email] {
 }
 
 
-/* result html for form */
-.result {
-    height: 100%;
-    width: auto;
-    background-size: 100%;
-    border: 15px solid #00BB9D;
-    background-color: #006D89;
-    text-align: center;
-}
 
-#result a {
-    color: #006D89;
-}
-
-#result a:hover {
-    color: aqua;
-}
 
