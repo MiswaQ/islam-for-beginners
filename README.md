@@ -40,6 +40,8 @@ One can find alot of information online both from muslim and non muslim research
 <p>The navigation bar is identical on each of the three pages. So that the user easily can move around the page.</p>
 
 <p>When moving the mouse over the navlinks the color changes to indicate where the user might go if they click</p>
+<br>
+<br>
 
 ## 1. Islam!
 
@@ -144,7 +146,6 @@ Here I talk about importance of being ablution (Wudu - Ritual cleanliness). And 
 <p>The result page I did simple with no pictures and just a border around the text</p>
 <br>
 <br>
-<br>
 
 ## Bugfix
 
@@ -182,6 +183,22 @@ Here I talk about importance of being ablution (Wudu - Ritual cleanliness). And 
             [TheNationalNews](https://www.thenationalnews.com/gulf-news/saudi-arabia/)  
    - Suns position at the time of prayer img from:
            [LearnReligions-Huda](https://www.learnreligions.com/islamic-prayer-timings-2003811)
+<br>
+<br>
+
+   #### Icons and fonts resizing imgs:
+   - Icons was taken from:
+            [FontAwsome](https://fontawesome.com/)
+   - Icon on homepage tab from:
+            [FavIconGenerator](https://www.favicon-generator.org/)
+   - Fonts taken from:
+            [GoogleFonts](https://fonts.google.com/)
+   - Image resizing site I used:
+            [TinyPNG](https://tinypng.com/)
+            [ILoveImg](https://www.iloveimg.com/)
+
+
+
              
 
    
