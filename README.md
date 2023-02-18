@@ -4,13 +4,13 @@
 ![First Page Islam](/assets/images/readimage/amiresp.png)
 
 
-<p>This page is directed to people who have some intrest in Islam.
-It can be a person who wants to know what Islam is. A person who resently have converted. Or maybe someone who has a family member or friend who converted. And wish to understand what this person is beliving.</p> 
+<p>This page is directed to people who have some interest in Islam.
+It can be a person who wants to know what Islam is. A person who recently have converted. Or maybe someone who has a family member or friend who converted. And wish to understand what this person is believing.</p> 
 
-<p>As the world have alot of missconseptions about Islam I would sugest to you that best person to ask about Islam is a schoolar if you cant find a schoolar then try to find a practising muslim to ask your questions.</p>
+<p>As the world have a lot of misconceptions about Islam I would suggest to you that best person to ask about Islam is a scholar if you cant find a scholar then try to find a practicing Muslim to ask your questions.</p>
 
-<p>Here I will try to give you short and simple informative page where you can get a litle basic information about Islam. And if one want to indulge in learning more about Islam.
-One can find alot of information online both from muslim and non muslim researchers.</p>
+<p>Here I will try to give you short and simple informative page where you can get a little basic information about Islam. And if one want to indulge in learning more about Islam.
+One can find a lot of information online both from Muslim and non Muslim researchers.</p>
 <br>
 <br>
 
@@ -27,7 +27,7 @@ One can find alot of information online both from muslim and non muslim research
 
 ## Header!
 
-<p>On all 3 mages (Islam, Mohammad, Prayrs) the name of the page and e unique image is placed to show the user what page there in. Mecca as a picture representing Islam. The prophets mosque in Medina to represent Mohammad. And muslims prostrating next to the Kaaba to represent Prayers.</p>
+<p>On all 3 mages (Islam, Mohammad, Prayers) the name of the page and e unique image is placed to show the user what page there in. Mecca as a picture representing Islam. The prophets mosque in Medina to represent Mohammad. And Muslims prostrating next to the Kaaba to represent Prayers.</p>
 
 <p>On all three mages the background, header and link colors are the same to make the user feel they are on the same homepage.</p>
 
@@ -48,15 +48,15 @@ One can find alot of information online both from muslim and non muslim research
 ![First Page Islam](/assets/images/readimage/Iread.png)
 [Islam](https://miswaq.github.io/islam-for-beginners/)
 
-### Islams Five Pillars:
+### Islam's Five Pillars:
 
    #### Iman - (Shahadah) Testimony of faith:
             The testimony consists of two testimonies:
             1. There is no God worthy of worship accept Allah.
-            2. Mohammad is the servent and messenger of Allah.
+            2. Mohammad is the servant and messenger of Allah.
          
    #### Salat - Five daily Prayers:
-            Everymuslim must perform the five daily prayers.
+            Every Muslim must perform the five daily prayers.
             1. Fajr - morning prayer
             2. Zuhur - midday prayer
             3. Asr - afternoon prayer
@@ -65,29 +65,29 @@ One can find alot of information online both from muslim and non muslim research
           
   #### Saum - Fasting during the month of Ramadan:
             Every able person has to fast during Ramadan month.
-            Exept for some exeptions that are excused from fasting.
-            The fast is Obligatory on every muslim.
+            Except for some exceptions that are excused from fasting.
+            The fast is Obligatory on every Muslim.
             
-  #### Zakat - Paying anually to the needy:
+  #### Zakat - Paying annually to the needy:
             Every person who has the means has to give Zakat!
             Zakat are calculated from ones savings in a year.
             2.5% of those savings has to go to the poor and needy.
-            But if you dont hae anything of value saved for a year you are excused.
+            But if you don't have anything of value saved for a year you are excused.
             
   #### Hajj - Pilgrimage to Mecca:
             Everyone who has the ability and means has to perform Hajj.
-            It is Obligatory for every muslim to go for pilgrimage atleast
+            It is Obligatory for every Muslim to go for pilgrimage at least
             ones in ones life time.
 <br>
 <br>
 
-<p>Here I have chosen to indicate the titel of the subject Islam with the moon and star that symbolices Islam. And on the diferent pilars I put some icons that symbolices that specific pillar.</p>
+<p>Here I have chosen to indicate the title of the subject Islam with the moon and star that symbolizes Islam. And on the different pillars I put some icons that symbolices that specific pillar.</p>
 
-   -  Finger as muslim raise there finger as they say the shahada that God is One
-   -  The mat symbolising the place where one prays
-   -  The forbidden sign to show that you are forbidden things like food, drinks and sexuall  intercorse during certain time of the day
-   -  The money symbolises that you give some of your welth to charity
-   -  The Kaaba becouse Mecca is the place of pilgrimage
+   -  Finger as Muslim raise there finger as they say the shahada that God is One
+   -  The mat symbolizing the place where one prays
+   -  The forbidden sign to show that you are forbidden things like food, drinks and sexual-intercourse during certain time of the day
+   -  The money symbolizes that you give some of your wealth to charity
+   -  The Kaaba because Mecca is the place of pilgrimage
 <br>
 <br>
 
@@ -98,19 +98,19 @@ One can find alot of information online both from muslim and non muslim research
 
 ### The life of the Prophet:
 
-<p>Here is a short story of the Prophet Mohammad (PBUH). It tells about about who belives in him as a prophet. Where he was born and a litle about his childhood, when he lost his parents and who raised him.</p>
+<p>Here is a short story of the Prophet Mohammad (PBUH). It tells about about who believes in him as a prophet. Where he was born and a little about his childhood, when he lost his parents and who raised him.</p>
 
-<p>I then tell about the revelation. How old he was when it happend. Who brought it to him. That he was awaited by people of the book. Because of the prophecies in there books. The Night Jurney to Aqsa moské in Jerusalem Palastine and to the heavens.</p>
+<p>I then tell about the revelation. How old he was when it happened. Who brought it to him. That he was awaited by people of the book. Because of the prophecies in there books. The Night Journey to Aqsa mosque in Jerusalem Palestine and to the heavens.</p>
 
-<p>How he is understood by muslim. He is only a human with the gift of prophethood. The dificulties he went through with the boycott and the death of his wife Khadijah (RA) and his Unle Abu Talib.</p>
+<p>How he is understood by Muslim. He is only a human with the gift of prophethood. The difficulties he went through with the boycott and the death of his wife Khadijah (RA) and his Uncle Abu Talib.</p>
 
-<p>eport tell about the different battels he faught together with the muslimms. How he won against all ods. And when victories he never became crule to those who used to opress him or show any arrogance.</p>
+<p>Reports tell about the different battels he fought together with the muslims. How he won against all odd's. And when victories he never became cruel to those who used to oppress him or show any arrogance.</p>
 
 <p>Mohammad (PBUH) served as administrator, legislator, judge, and commander-in-chief as well as teacher, preacher, and prayer leader of the Muslim community. For the scholars of Islamic law he is the legislator-jurist who defined ritual observance; for the mystic he is the ideal seeker of spiritual perfection; for the philosopher and statesman he is the role model of both a conqueror and a just ruler; for ordinary Muslims, he is a model of God's grace and salvation.</p>
 <br>
 <br>
 
-<p>I devided the text so it becomes easier to read. I only used one sign icon to show that the prophet is the way.</p>
+<p>I divided the text so it becomes easier to read. I only used one sign icon to show that the prophet is the way.</p>
 <br>
 <br>
 
@@ -150,13 +150,13 @@ Here I talk about importance of being ablution (Wudu - Ritual cleanliness). And 
 ## Footer!
 
 ![Footer](assets/images/readimage/footer.png)
-   #### Footoer features:
+   #### Footer features:
 <br>
-<p>The footer I made the same on all pages exept for the result page. On that page I added one more icon so that the user can go back to the start.</p>
+<p>The footer I made the same on all pages except for the result page. On that page I added one more icon so that the user can go back to the start.</p>
 
    #### Footer links:
 <br>
-<p>I chose links to diferent convert groups for the user to get in contact with people who might understand there questions. And guide them in further research into Islam.</p>
+<p>I chose links to different convert groups for the user to get in contact with people who might understand there questions. And guide them in further research into Islam.</p>
 <br>
 <br>
 
@@ -164,7 +164,7 @@ Here I talk about importance of being ablution (Wudu - Ritual cleanliness). And 
 
    #### Main colors I have used are:
 
-![Main Color Theam](assets/images/readimage/maincolors.png)
+![Main Color Theme](assets/images/readimage/maincolors.png)
 <br>
 <br>
 
@@ -203,7 +203,7 @@ Here I talk about importance of being ablution (Wudu - Ritual cleanliness). And 
    #### Content I have used and would like to give a shout out to is:
    - Facts about Islam was taken from:
             [AsianArtMuseum](https://education.asianart.org/resources/an-introduction-to-islam/)
-   - Facts about the five pilars:
+   - Facts about the five pillars:
             [NewMuslims](https://www.newmuslims.com/)
    - Facts about Prophet Mohammad (PBUH) was taken from:
             [IslamCity](https://www.islamicity.org/17626/a-brief-biography-of-prophet-muhammad/)
@@ -255,6 +255,17 @@ Here I talk about importance of being ablution (Wudu - Ritual cleanliness). And 
    3. Copy!
    4. Open Terminal!
    5. Write git clone https://github.com/MiswaQ/islam-for-beginners
+<br>
+<br>
+
+## Deployment:
+   
+   #### I deployed to GitHub pages with these steps:
+   1. In the repository for islam-for-beginners I chose Settings.
+   2. On the left side of the screen I chose Pages.
+   3. From the branch menu I chose Main.
+   4. Then root.
+   5. Then I had to wait for a couple of min for the link to get online.
    
    ##### Now you will download my Repository to your computer!
    <br>
