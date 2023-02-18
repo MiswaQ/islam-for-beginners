@@ -160,8 +160,20 @@ Here I talk about importance of being ablution (Wudu - Ritual cleanliness). And 
 
 ## Source
 
-   #### Sources I used to make my page is:
-   
+   #### Content I have used and would like to give a shout out to is:
+   - Facts about Islam was taken from:
+            [AsianArtMuseum](https://education.asianart.org/resources/an-introduction-to-islam/)
+   - Facts about the five pilars:
+            [NewMuslims](https://www.newmuslims.com/)
+   - Facts about Prophet Mohammad (PBUH) was taken from:
+            [IslamCity](https://www.islamicity.org/17626/a-brief-biography-of-prophet-muhammad/)
+   - Facts about the prayers was taken from:
+            [MuslimHands](https://muslimhands.org.uk/)
+            [Wikihow](https://www.wikihow.com/Pray-in-Islam/)
+<br>
+<br>
+
+   #### 
       
 
    
