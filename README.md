@@ -27,9 +27,9 @@ One can find a lot of information online both from Muslim and non Muslim researc
 
 ## Header!
 
-<p>On all 3 mages (Islam, Mohammad, Prayers) the name of the page and e unique image is placed to show the user what page there in. Mecca as a picture representing Islam. The prophets mosque in Medina to represent Mohammad. And Muslims prostrating next to the Kaaba to represent Prayers.</p>
+<p>On all 3 pages (Islam, Mohammad, Prayers) the name of the page and e unique image is placed to show the user what page there in. Mecca as a picture representing Islam. The prophets mosque in Medina to represent Mohammad. And Muslims prostrating next to the Kaaba to represent Prayers.</p>
 
-<p>On all three mages the background, header and link colors are the same to make the user feel they are on the same homepage.</p>
+<p>On all three pages the background, header and link colors are the same to make the user feel they are on the same homepage.</p>
 
 <p>The black and white header colors are so that the text always is readable</p>
 <br>
@@ -39,14 +39,13 @@ One can find a lot of information online both from Muslim and non Muslim researc
 
 <p>The navigation bar is identical on each of the three pages. So that the user easily can move around the page.</p>
 
-<p>When moving the mouse over the navlinks the color changes to indicate where the user might go if they click</p>
+<p>When hovering over the navlinks the color changes to indicate where the user might go if they click</p>
 <br>
 <br>
 
 ## 1. Islam!
 
 ![First Page Islam](/assets/images/readimage/Iread.png)
-[Islam](https://miswaq.github.io/islam-for-beginners/)
 
 ### Islam's Five Pillars:
 
@@ -94,19 +93,10 @@ One can find a lot of information online both from Muslim and non Muslim researc
 ## 2. Mohammad (PBUH)!
 
 ![Second Page Mohammad](/assets/images/readimage/Mread.png)
-[Mohammad](https://miswaq.github.io/islam-for-beginners/mohammad.html)
 
 ### The life of the Prophet:
 
-<p>Here is a short story of the Prophet Mohammad (PBUH). It tells about about who believes in him as a prophet. Where he was born and a little about his childhood, when he lost his parents and who raised him.</p>
-
-<p>I then tell about the revelation. How old he was when it happened. Who brought it to him. That he was awaited by people of the book. Because of the prophecies in there books. The Night Journey to Aqsa mosque in Jerusalem Palestine and to the heavens.</p>
-
-<p>How he is understood by Muslim. He is only a human with the gift of prophethood. The difficulties he went through with the boycott and the death of his wife Khadijah (RA) and his Uncle Abu Talib.</p>
-
-<p>Reports tell about the different battels he fought together with the muslims. How he won against all odd's. And when victories he never became cruel to those who used to oppress him or show any arrogance.</p>
-
-<p>Mohammad (PBUH) served as administrator, legislator, judge, and commander-in-chief as well as teacher, preacher, and prayer leader of the Muslim community. For the scholars of Islamic law he is the legislator-jurist who defined ritual observance; for the mystic he is the ideal seeker of spiritual perfection; for the philosopher and statesman he is the role model of both a conqueror and a just ruler; for ordinary Muslims, he is a model of God's grace and salvation.</p>
+<p>Here is a short story of the Prophet Mohammad (PBUH). It tells about about who believes in him as a prophet. Where he was born and a little about his childhood, when he lost his parents and who raised him, when he got married, when he receaved revelation, what happend after revelation. And so on</p>
 <br>
 <br>
 
@@ -117,7 +107,6 @@ One can find a lot of information online both from Muslim and non Muslim researc
 ## 3. Prayers!
 
 ![Third Page Prayers](/assets/images/readimage/Pread.png)
-[Prayars](https://miswaq.github.io/islam-for-beginners/prayers.html)
 
 ### The five daily Prayers:
 
@@ -139,7 +128,6 @@ Here I talk about importance of being ablution (Wudu - Ritual cleanliness). And 
 ## Form result!
 
 ![Form Result](/assets/images/readimage/Fread.png)
-[Form result](https://miswaq.github.io/islam-for-beginners/result.html?fname=and&lname=adn&email=adn%40ds.se&check=No&submit=Submit)
 <br>
 <br>
 
@@ -181,8 +169,8 @@ Here I talk about importance of being ablution (Wudu - Ritual cleanliness). And 
 <br>
 
 ## HTML CSS validation!
-[W3 validator HTML](https://validator.w3.org/) - PASS!
-[W3C CSS validator](https://jigsaw.w3.org/css-validator/) PASS!
+- [W3 validator HTML](https://validator.w3.org/) - PASS!
+- [W3C CSS validator](https://jigsaw.w3.org/css-validator/) - PASS!
 <br>
 <br>
 
