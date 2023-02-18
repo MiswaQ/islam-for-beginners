@@ -143,7 +143,34 @@ Here I talk about importance of being ablution (Wudu - Ritual cleanliness). And 
 <br>
 <br>
 
-<p>The result page I did simple with no pictures and just a border around the text</p>
+<p>The result page I made simple with no pictures and just a border around the text and on the footer I put an extra icon.</p>
+<br>
+<br>
+
+## Footer!
+
+
+
+<br>
+<br>
+
+## Colors!
+
+#### Main colors I have used are:
+
+![Main Color Theam](assets/images/readimage/maincolors.png)
+<br>
+<br>
+
+#### Icon colors are:
+
+![Icon Colors](assets/images/readimage/islamiconc.png)
+
+
+
+
+
+
 <br>
 <br>
 
