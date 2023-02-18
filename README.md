@@ -23,7 +23,12 @@ One can find alot of information online both from muslim and non muslim research
 <br>
 <br>
 
-## 1. Islams Five Pillars! ##
+
+## 1. Islam!
+
+![First Page Islam](/assets/images/readimage/Iread.png)
+
+### Islams Five Pillars:
 
    #### Iman - (Shahadah) Testimony of faith:
             The testimony consists of two testimonies:
@@ -56,7 +61,11 @@ One can find alot of information online both from muslim and non muslim research
 <br>
 <br>
 
-## 2. Mohammad (PBUH)! ##
+## 2. Mohammad (PBUH)!
+
+![Second Page Mohammad](/assets/images/readimage/Mread.png)
+
+### The life of the Prophet:
 
 <p>Here is a short story of the Prophet Mohammad (PBUH). It tells about about who belives in him as a prophet. Where he was born and a litle about his childhood, when he lost his parents and who raised him.</p>
 
@@ -70,7 +79,11 @@ One can find alot of information online both from muslim and non muslim research
 <br>
 <br>
 
-## 3. The five daily Prayers! ##.
+## 3. Prayers!
+
+![Third Page Prayers](/assets/images/readimage/Pread.png)
+
+### The five daily Prayers:
 
 <p>The Prayer is one of the most important pillar of Islam.
 Here we talk about importance of being ablution (Wudu - Ritual cleanliness). And then give a short explanation what the five daily prayer is.</p>
@@ -82,7 +95,12 @@ Here we talk about importance of being ablution (Wudu - Ritual cleanliness). And
       Asr: Afternoon Prayer!
       Magrib: Sunset Prayer!
       Isha: Night Prayer!
+<br>
+<br>
 
+## Form result!
+
+![Form Result](/assets/images/readimage/Fread.png)
 
 
 
