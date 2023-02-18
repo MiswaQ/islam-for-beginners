@@ -17,6 +17,7 @@ One can find a lot of information online both from Muslim and non Muslim researc
 ##### Useful site!
 * This is a good page to find information about Islam! --> [IslamOnline](https://islamonline.net/en/category/discover-islam/)
 <br>
+
 ### But here we will focus on 3 parts of Islam.
 
 1. Islam and the five pillars of faith.
@@ -243,6 +244,9 @@ Here I talk about importance of being ablution (Wudu - Ritual cleanliness). And 
    3. Copy!
    4. Open Terminal!
    5. Write git clone https://github.com/MiswaQ/islam-for-beginners
+
+
+   ##### Now you will download my Repository to your computer!
 <br>
 <br>
 
@@ -255,7 +259,16 @@ Here I talk about importance of being ablution (Wudu - Ritual cleanliness). And 
    4. Then root.
    5. Then I had to wait for a couple of min for the link to get online.
    
-   ##### Now you will download my Repository to your computer!
+   https://miswaq.github.io/islam-for-beginners/
+   <br>
+   <br>
+   
+   ## Contact!
+   Contact me at:
+   <br>
+   **Email** ´MiswaQ@gmail.com´
+   <br>
+   **Skype** [Abdulrahman Zekroum Aregai](https://join.skype.com/invite/GDTp54gY6csh)
    <br>
    <br>
    
