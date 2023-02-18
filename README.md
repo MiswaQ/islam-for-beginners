@@ -171,7 +171,12 @@ Here I talk about importance of being ablution (Wudu - Ritual cleanliness). And 
 #### Icon colors are:
 
 ![Icon Colors](assets/images/readimage/islamiconc.png)
+<br>
+<br>
+<br>
 
+## Lighthouse test using DevTool:
+![LightHouse](assets/images/readimage/devtest.png)
 <br>
 <br>
 
