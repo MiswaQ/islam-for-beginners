@@ -173,8 +173,16 @@ Here I talk about importance of being ablution (Wudu - Ritual cleanliness). And 
 <br>
 <br>
 
-   #### 
-      
+   #### Those who I want to thank for the images are:
+   - Mecca img from:
+            [PexelUser-Konevi](https://images.pexels.com/photos/4346403/pexels-photo-4346403.jpeg)
+   - Medina img from:
+            [PexelUser-Yasir Gürbüz](https://images.pexels.com/photos/12593614/pexels-photo-12593614.jpeg)
+   - Prayer img from:
+            [TheNationalNews](https://www.thenationalnews.com/gulf-news/saudi-arabia/)  
+   - Suns position at the time of prayer img from:
+           [LearnReligions-Huda](https://www.learnreligions.com/islamic-prayer-timings-2003811)
+             
 
    
 
