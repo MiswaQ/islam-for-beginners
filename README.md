@@ -20,25 +20,25 @@ One can find alot of information online both from muslim and non muslim research
 
 
 ## 1. Islams Five Pillars! ##
-       Iman - (Shahadah) Testimony of faith:
+      Iman - (Shahadah) Testimony of faith:
         The testimony consists of two testimonies:
          1. There is no God worthy of worship accept Allah.
          2. Mohammad is the servent and messenger of Allah.
          
-        Salat - Five daily Prayers:
-          Everymuslim must perform the five daily prayers<<<.
+      Salat - Five daily Prayers:
+        Everymuslim must perform the five daily prayers.
           1. Fajr - morning prayer
           2. Zuhur - midday prayer
           3. Asr - afternoon prayer
           4. Magrib - sunset prayer
           5. Isha - night prayer
           
-        Saum - Fasting during the month of Ramadan:
+      Saum - Fasting during the month of Ramadan:
           Every able person has to fast during Ramadan month.
-            Exept for some exeptions that are excused from fasting.
+          Exept for some exeptions that are excused from fasting.
             The fast is Obligatory on every muslim.
             
-        Zakat - Paying anually to the needy:
+      Zakat - Paying anually to the needy:
           Every person who has the means has to give Zakat!
             Zakat are calculated from ones savings in a year.
             2.5% of those savings has to go to the poor and needy.
