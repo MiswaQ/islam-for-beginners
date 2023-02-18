@@ -27,6 +27,7 @@ One can find alot of information online both from muslim and non muslim research
 ## 1. Islam!
 
 ![First Page Islam](/assets/images/readimage/Iread.png)
+[Islam](https://miswaq.github.io/islam-for-beginners/)
 
 ### Islams Five Pillars:
 
@@ -64,6 +65,7 @@ One can find alot of information online both from muslim and non muslim research
 ## 2. Mohammad (PBUH)!
 
 ![Second Page Mohammad](/assets/images/readimage/Mread.png)
+[Mohammad](https://miswaq.github.io/islam-for-beginners/mohammad.html)
 
 ### The life of the Prophet:
 
@@ -82,6 +84,7 @@ One can find alot of information online both from muslim and non muslim research
 ## 3. Prayers!
 
 ![Third Page Prayers](/assets/images/readimage/Pread.png)
+[Prayars](https://miswaq.github.io/islam-for-beginners/prayers.html)
 
 ### The five daily Prayers:
 
@@ -101,6 +104,7 @@ Here we talk about importance of being ablution (Wudu - Ritual cleanliness). And
 ## Form result!
 
 ![Form Result](/assets/images/readimage/Fread.png)
+[Form result](https://miswaq.github.io/islam-for-beginners/result.html?fname=and&lname=adn&email=adn%40ds.se&check=No&submit=Submit)
 
 
 
