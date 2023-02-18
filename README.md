@@ -1,6 +1,8 @@
 # Islam For Beginners!
 [My webpage!](https://miswaq.github.io/islam-for-beginners/)
 
+![First Page Islam](/assets/images/readimage/amiresp.png)
+
 
 <p>This page is directed to people who have some intrest in Islam.
 It can be a person who wants to know what Islam is. A person who resently have converted. Or maybe someone who has a family member or friend who converted. And wish to understand what this person is beliving.</p> 
@@ -12,7 +14,6 @@ One can find alot of information online both from muslim and non muslim research
 <br>
 
 ##### Useful site!
-
 * This is a good page to find information about Islam! --> [IslamOnline](https://islamonline.net/en/category/discover-islam/)
 <br>
 ### But here we will focus on 3 parts of Islam.
@@ -23,6 +24,13 @@ One can find alot of information online both from muslim and non muslim research
 <br>
 <br>
 
+## Header!
+
+<p>On all 3 mages (Islam, Mohammad, Prayrs) the name of the page and e unique image is placed to show the user what page there in. Mecca as a picture representing Islam. The prophets mosque in Medina to represent Mohammad. And muslims prostrating next to the Kaaba to represent Prayers.</p>
+
+## Navigation!
+
+<p>The navigation bar is identical on each of the three pages. So that the user easily can move around the page.</p>
 
 ## 1. Islam!
 
@@ -105,6 +113,17 @@ Here we talk about importance of being ablution (Wudu - Ritual cleanliness). And
 
 ![Form Result](/assets/images/readimage/Fread.png)
 [Form result](https://miswaq.github.io/islam-for-beginners/result.html?fname=and&lname=adn&email=adn%40ds.se&check=No&submit=Submit)
+<br>
+<br>
+<br>
+
+## Header!
+
+   <p>On all 3 mages (Islam, Mohammad, Prayrs) the name of the page and e unic image is placed to show the user what page there in. Mecca as a picture representing Islam. The prophets mosque in Medina to represent Mohammad. And muslims prostrating next to the Kaaba to represent Prayers.
+
+   
+   
+
 
 
 
