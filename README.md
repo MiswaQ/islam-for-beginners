@@ -180,6 +180,12 @@ Here I talk about importance of being ablution (Wudu - Ritual cleanliness). And 
 <br>
 <br>
 
+## HTML CSS validation!
+[W3 validator HTML](https://validator.w3.org/) - PASS!
+[W3C CSS validator](https://jigsaw.w3.org/css-validator/) PASS!
+<br>
+<br>
+
 ## Bugfix
 
 #### When I had problems solving an issue here is where I turned.
@@ -236,12 +242,27 @@ Here I talk about importance of being ablution (Wudu - Ritual cleanliness). And 
    - [Facebook](https://www.facebook.com/groups/716161341734931/)
    - [Instagram](https://www.instagram.com/muslimconvertstories/)
    - [Twitter](https://twitter.com/MusIimConverts)
-   - [YouTube](https://www.youtube.com/@MuslimConvertStories)
-            
+   - [YouTube](https://www.youtube.com/@MuslimConvertStories) 
+<br>
+<br>
+<br>
 
+## Clone my .
 
-
-             
+   #### These are the steps to clone:
+   1. Go to [Repository](https://github.com/MiswaQ/islam-for-beginners)!
+   2. Click <>Code!
+   3. Copy!
+   4. Open Terminal!
+   5. Write git clone https://github.com/MiswaQ/islam-for-beginners
+   
+   ##### Now you will download my Repository to your computer!
+   <br>
+   <br>
+   
+   # Good Bye!
+   ## And hope you have enjoyed your stay!
+   ### Go in Peace!
 
    
 
