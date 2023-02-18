@@ -12,6 +12,7 @@ It can be a person who wants to know what Islam is. A person who resently have c
 <p>Here I will try to give you short and simple informative page where you can get a litle basic information about Islam. And if one want to indulge in learning more about Islam.
 One can find alot of information online both from muslim and non muslim researchers.</p>
 <br>
+<br>
 
 ##### Useful site!
 * This is a good page to find information about Islam! --> [IslamOnline](https://islamonline.net/en/category/discover-islam/)
@@ -28,9 +29,17 @@ One can find alot of information online both from muslim and non muslim research
 
 <p>On all 3 mages (Islam, Mohammad, Prayrs) the name of the page and e unique image is placed to show the user what page there in. Mecca as a picture representing Islam. The prophets mosque in Medina to represent Mohammad. And muslims prostrating next to the Kaaba to represent Prayers.</p>
 
+<p>On all three mages the background, header and link colors are the same to make the user feel they are on the same homepage.</p>
+
+<p>The black and white header colors are so that the text always is readable</p>
+<br>
+<br>
+
 ## Navigation!
 
 <p>The navigation bar is identical on each of the three pages. So that the user easily can move around the page.</p>
+
+<p>When moving the mouse over the navlinks the color changes to indicate where the user might go if they click</p>
 
 ## 1. Islam!
 
@@ -69,6 +78,15 @@ One can find alot of information online both from muslim and non muslim research
             ones in ones life time.
 <br>
 <br>
+
+<p>Here we have chosen to indicate the titel of the subject Islam with the moon and star that symbolices Islam. And on the diferent pilars I put some icons that symbolices that specific pillar.</p>
+
+   -  Finger as muslim raise there finger as they say the shahada that God is One
+   -  The mat symbolising the place where one prays
+   -  The forbidden sign to show that you are forbidden things like food, drinks and sexuall  intercorse during certain time of the day
+   -  The money symbolises that you give some of your welth to charity
+   -  The Kaaba becouse Mecca is the place of pilgrimage
+
 
 ## 2. Mohammad (PBUH)!
 
@@ -117,11 +135,7 @@ Here we talk about importance of being ablution (Wudu - Ritual cleanliness). And
 <br>
 <br>
 
-## Header!
 
-   <p>On all 3 mages (Islam, Mohammad, Prayrs) the name of the page and e unic image is placed to show the user what page there in. Mecca as a picture representing Islam. The prophets mosque in Medina to represent Mohammad. And muslims prostrating next to the Kaaba to represent Prayers.
-
-   
    
 
 
