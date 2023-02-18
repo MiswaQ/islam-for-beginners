@@ -79,14 +79,15 @@ One can find alot of information online both from muslim and non muslim research
 <br>
 <br>
 
-<p>Here we have chosen to indicate the titel of the subject Islam with the moon and star that symbolices Islam. And on the diferent pilars I put some icons that symbolices that specific pillar.</p>
+<p>Here I have chosen to indicate the titel of the subject Islam with the moon and star that symbolices Islam. And on the diferent pilars I put some icons that symbolices that specific pillar.</p>
 
    -  Finger as muslim raise there finger as they say the shahada that God is One
    -  The mat symbolising the place where one prays
    -  The forbidden sign to show that you are forbidden things like food, drinks and sexuall  intercorse during certain time of the day
    -  The money symbolises that you give some of your welth to charity
    -  The Kaaba becouse Mecca is the place of pilgrimage
-
+<br>
+<br>
 
 ## 2. Mohammad (PBUH)!
 
@@ -97,13 +98,17 @@ One can find alot of information online both from muslim and non muslim research
 
 <p>Here is a short story of the Prophet Mohammad (PBUH). It tells about about who belives in him as a prophet. Where he was born and a litle about his childhood, when he lost his parents and who raised him.</p>
 
-<p>We then tell about the revelation. How old he was when it happend. Who brought it to him. That he was awaited by people of the book. Because of the prophecies in there books. The Night Jurney to Aqsa moské in Jerusalem Palastine and to the heavens.</p>
+<p>I then tell about the revelation. How old he was when it happend. Who brought it to him. That he was awaited by people of the book. Because of the prophecies in there books. The Night Jurney to Aqsa moské in Jerusalem Palastine and to the heavens.</p>
 
 <p>How he is understood by muslim. He is only a human with the gift of prophethood. The dificulties he went through with the boycott and the death of his wife Khadijah (RA) and his Unle Abu Talib.</p>
 
 <p>eport tell about the different battels he faught together with the muslimms. How he won against all ods. And when victories he never became crule to those who used to opress him or show any arrogance.</p>
 
 <p>Mohammad (PBUH) served as administrator, legislator, judge, and commander-in-chief as well as teacher, preacher, and prayer leader of the Muslim community. For the scholars of Islamic law he is the legislator-jurist who defined ritual observance; for the mystic he is the ideal seeker of spiritual perfection; for the philosopher and statesman he is the role model of both a conqueror and a just ruler; for ordinary Muslims, he is a model of God's grace and salvation.</p>
+<br>
+<br>
+
+<p>I devided the text so it becomes easier to read. I only used one sign icon to show that the prophet is the way.</p>
 <br>
 <br>
 
@@ -115,7 +120,7 @@ One can find alot of information online both from muslim and non muslim research
 ### The five daily Prayers:
 
 <p>The Prayer is one of the most important pillar of Islam.
-Here we talk about importance of being ablution (Wudu - Ritual cleanliness). And then give a short explanation what the five daily prayer is.</p>
+Here I talk about importance of being ablution (Wudu - Ritual cleanliness). And then give a short explanation what the five daily prayer is.</p>
 
    ### Five Prayers: ###
    
@@ -127,14 +132,37 @@ Here we talk about importance of being ablution (Wudu - Ritual cleanliness). And
 <br>
 <br>
 
+<p>I chose to put pictures on the left side for the user to get a feel of when the prayer is during the day</p>
+
 ## Form result!
 
 ![Form Result](/assets/images/readimage/Fread.png)
 [Form result](https://miswaq.github.io/islam-for-beginners/result.html?fname=and&lname=adn&email=adn%40ds.se&check=No&submit=Submit)
 <br>
 <br>
+
+<p>The result page I did simple with no pictures and just a border around the text</p>
+<br>
+<br>
 <br>
 
+## Bugfix
+
+#### When I had problems solving an issue here is where I turned.
+
+   - [Slack](https://slack.com/)
+   - [DevMozilla](https://developer.mozilla.org/en-US/docs/Web/HTML)
+   - [W3Schools](https://www.w3schools.com/)
+   - [StackOverflow](https://stackoverflow.com/)
+   - [LoveRunning](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode)
+<br>
+<br>
+
+## Source
+
+   #### Sources I used to make my page is:
+   
+      
 
    
 
