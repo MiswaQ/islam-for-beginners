@@ -149,14 +149,20 @@ Here I talk about importance of being ablution (Wudu - Ritual cleanliness). And 
 
 ## Footer!
 
+![Footer](assets/images/readimage/footer.png)
+   #### Footoer features:
+<br>
+<p>The footer I made the same on all pages exept for the result page. On that page I added one more icon so that the user can go back to the start.</p>
 
-
+   #### Footer links:
+<br>
+<p>I chose links to diferent convert groups for the user to get in contact with people who might understand there questions. And guide them in further research into Islam.</p>
 <br>
 <br>
 
 ## Colors!
 
-#### Main colors I have used are:
+   #### Main colors I have used are:
 
 ![Main Color Theam](assets/images/readimage/maincolors.png)
 <br>
@@ -165,11 +171,6 @@ Here I talk about importance of being ablution (Wudu - Ritual cleanliness). And 
 #### Icon colors are:
 
 ![Icon Colors](assets/images/readimage/islamiconc.png)
-
-
-
-
-
 
 <br>
 <br>
@@ -223,6 +224,15 @@ Here I talk about importance of being ablution (Wudu - Ritual cleanliness). And 
    - Image resizing site I used:
             [TinyPNG](https://tinypng.com/)
             [ILoveImg](https://www.iloveimg.com/)
+<br>
+<br>
+
+   #### Social Media Links to:
+   - [Facebook](https://www.facebook.com/groups/716161341734931/)
+   - [Instagram](https://www.instagram.com/muslimconvertstories/)
+   - [Twitter](https://twitter.com/MusIimConverts)
+   - [YouTube](https://www.youtube.com/@MuslimConvertStories)
+            
 
 
 
